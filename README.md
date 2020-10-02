@@ -1,15 +1,23 @@
-<h1 align="center">Hi 👋, I'm Hung-Chih Huang calls me 🐼Henry🐼</h1>
+<div align="center">
+    <h1>Hi 👋, I'm Hung-Chih Huang calls me 🐼Henry🐼</h1>
+    <br>
+    <a  href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
+      <img src="https://pronouns.vercel.app/he/him?gradient=grapefruit%20sunset" width="256" height="64" alt="My pronouns are he/him">
+    </a>
+</div>
 <h3 align="center">I love to talk on data ⚡ technology, I have huge atraction on music🎵 and Playlist</h3>
 
 - 🏢 I’m currently studying in **Northeastern University Information System**
 
-- 🌱 I’m currently learning **Big data and Cloud Architecture Design. A data Engineer want to be**
+- 🌱 I’m currently learning **Big data and Cloud Engineering. A data Engineer want to be**
 
 - 💬 Ask me about   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
 
 - 📫 How to reach me **Mchighlighlight@gmail.com**
 
 - ⚡ Fun fact **I love to ride bmx and big fan of cyberpunk AKIRA forever !!!**
+
+- ⚽ 2020 Goals: More git commit, Cloudera Certification 
 
 ## Connect with me
 [![Facebook Badge](https://img.shields.io/badge/-hung_chih_huang-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/Mchighlight13/)](https://www.facebook.com/Mchighlight13/)
@@ -74,6 +82,12 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://dev.to/mchighlight" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mchighlight" height="30" width="40" /></a>
 <a href="https://kaggle.com/mchighlight" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mchighlight" height="30" width="40" /></a>
 </p>
+
+# spotify-github-profile
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mchighlight&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 
 
