@@ -1,25 +1,23 @@
-<h1 align="center">Hi 👋, I'm Hung-Chih Huang</h1>
-<h3 align="center">I love to talk on data ⚡ technology, I have huge atraction on playlist🎵 and Spotify</h3>
+<h1 align="center">Hi 👋, I'm Hung-Chih Huang calls me 🐼Henry🐼</h1>
+<h3 align="center">I love to talk on data ⚡ technology, I have huge atraction on music🎵 and Playlist</h3>
 
-- 🏢 I’m currently studying **Northeastern University Information System**
+- 🏢 I’m currently studying in **Northeastern University Information System**
 
 - 🌱 I’m currently learning **Big data and Cloud Architecture Design. A data Engineer want to be**
 
-- 💬 Ask me about **python, django, big data**
+- 💬 Ask me about   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
 
 - 📫 How to reach me **Mchighlighlight@gmail.com**
 
 - ⚡ Fun fact **I love to ride bmx and big fan of cyberpunk AKIRA forever !!!**
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://dev.to/mchighlight" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mchighlight" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/802huang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="802huang" height="30" width="40" /></a>
-<a href="https://kaggle.com/mchighlight" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mchighlight" height="30" width="40" /></a>
-<a href="https://fb.com/mchighlight13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mchighlight13" height="30" width="40" /></a>
-<a href="https://instagram.com/lo_ho_b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lo_ho_b" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/huanghongchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="huanghongchi" height="30" width="40" /></a>
-</p>
+## Connect with me
+[![Facebook Badge](https://img.shields.io/badge/-hung_chih_huang-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/Mchighlight13/)](https://www.facebook.com/Mchighlight13/)
+[![Linkedin Badge](https://img.shields.io/badge/-hung_chih_huang-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/802huang/)](https://www.linkedin.com/in/802huang/)
+[![Medium Badge](https://img.shields.io/badge/-@hung_chih_huang-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@wertherjj)](https://medium.com/@wertherjj)
+[![Gmail Badge](https://img.shields.io/badge/-huang.hun@northeastern.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:huang.hun@northeastern.edu)](mailto:huang.hun@northeastern.edu)
+[![Youtube Badge](https://img.shields.io/badge/-HenryHuang%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/c/HuangHongChi/videos?view_as=subscriber)](https://www.youtube.com/c/HuangHongChi/videos?view_as=subscriber)
+[![Instagram Badge](https://img.shields.io/badge/-hung_chih_huang-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/lo_ho_b/)](https://www.instagram.com/lo_ho_b/)
 
 <br />
 
@@ -57,6 +55,10 @@
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>   
 </p>
 
+<br />
+
+--------------------------------------------------------------------------------------
+
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="https://github.com/Mchighlight">
@@ -66,6 +68,14 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </a>
 
 ---
+
+<p align="left">
+<h3 align="left">Developer Account:</h3>
+<a href="https://dev.to/mchighlight" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mchighlight" height="30" width="40" /></a>
+<a href="https://kaggle.com/mchighlight" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mchighlight" height="30" width="40" /></a>
+</p>
+
+
 
 
 
