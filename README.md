@@ -5,7 +5,7 @@
       <img src="https://pronouns.vercel.app/he/him?gradient=grapefruit%20sunset" width="256" height="64" alt="My pronouns are he/him">
     </a>
 </div>
-<h3 align="center">I love to talk on data ⚡ technology, I have huge atraction on music🎵 and Playlist</h3>
+<h3 align="center">I love to talk about data ⚡ technology, I have a huge attraction to music🎵 and Playlist</h3>
 
 - 🏢 I’m currently studying in **Northeastern University Information System**
 
