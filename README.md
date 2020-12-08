@@ -21,7 +21,6 @@
 
 ## Connect with me
 [![Facebook Badge](https://img.shields.io/badge/-hung_chih_huang-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/Mchighlight13/)](https://www.facebook.com/Mchighlight13/)
-[![Linkedin Badge](https://img.shields.io/badge/-hung_chih_huang-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/802huang/)](https://www.linkedin.com/in/802huang/)
 [![Medium Badge](https://img.shields.io/badge/-@hung_chih_huang-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@wertherjj)](https://medium.com/@wertherjj)
 [![Gmail Badge](https://img.shields.io/badge/-huang.hun@northeastern.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:huang.hun@northeastern.edu)](mailto:huang.hun@northeastern.edu)
 [![Youtube Badge](https://img.shields.io/badge/-HenryHuang%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/c/HuangHongChi/videos?view_as=subscriber)](https://www.youtube.com/c/HuangHongChi/videos?view_as=subscriber)
