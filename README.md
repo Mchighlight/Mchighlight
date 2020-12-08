@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Mchighlighlight@gmail.com**
 
-- ⚡ Fun fact **I love to ride bmx and big fan of cyberpunk AKIRA forever !!!**
+- ⚡ Fun fact **AKIRA forever !!!**
 
 - ⚽ 2020 Goals: More git commit, Cloudera Certification 
 
