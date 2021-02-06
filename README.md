@@ -9,7 +9,7 @@
 
 - 🏢 I’m currently studying in **Northeastern University Information System**
 
-- 🌱 I’m currently learning **Big data and Cloud Engineering. A data Engineer want to be**
+- 🌱 I’m currently learning **Big data and Cloud Engineering. A DevOps want to be**
 
 - 💬 Ask me about   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 
