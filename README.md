@@ -13,7 +13,7 @@
 
 - 💬 Ask me about   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 
-- 📫 How to reach me **Mchighlighlight@gmail.com**
+- 📫 How to reach me **huang.hun@northeastern.edu** or **Mchighlighlight@gmail.com**
 
 - ⚽ 2020 Goals: More git commit, Cloudera Certification 
 
