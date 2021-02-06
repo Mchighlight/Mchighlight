@@ -31,11 +31,11 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
+<a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://user-images.githubusercontent.com/43825167/89130164-bd27a700-d4d0-11ea-8a6f-964c8f1f71d5.png" alt="bash" width="40" height="40"/> </a>
 </p>
 
@@ -43,6 +43,9 @@
 <p align="left"> 
 <a href="https://jupyter.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/43825167/89091464-fe587380-d377-11ea-9c3b-f4487dd34bdb.png" alt="Jupyter Notebook" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank"> <img src=https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg alt="Git" width="40" height="40"/> </a>
+ <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux"width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src=https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg alt="Github" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src= https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg alt="PyCharm" width="40" height="40"/> </a>
@@ -67,9 +70,11 @@
 
 <h3 align="left">Cloud Engineering:</h3>
 <p align="left"> 
+<a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>   
+<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="circle.ci" width="40" height="40"/> </a>    
 </p>
 
 <br />
