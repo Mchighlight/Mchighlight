@@ -39,9 +39,8 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://user-images.githubusercontent.com/43825167/89130164-bd27a700-d4d0-11ea-8a6f-964c8f1f71d5.png" alt="bash" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Tool:</h3>
+<h3 align="left">Tool & Framework:</h3>
 <p align="left"> 
-<a href="https://jupyter.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/43825167/89091464-fe587380-d377-11ea-9c3b-f4487dd34bdb.png" alt="Jupyter Notebook" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank"> <img src=https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg alt="Git" width="40" height="40"/> </a>
  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -64,7 +63,8 @@
 <h3 align="left">Machine Learning:</h3>
 <p align="left"> 
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  
+<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/43825167/89091464-fe587380-d377-11ea-9c3b-f4487dd34bdb.png" alt="Jupyter Notebook" width="40" height="40"/> </a>
 </p>
 
 
