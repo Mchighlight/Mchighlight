@@ -75,7 +75,7 @@
 <a href="https://www.heroku.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://circleci.com/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/circleci/circleci-icon.svg" alt="circle.ci" width="40" height="40"/> </a>
+<a href="https://circleci.com/" target="_blank"> <img src="https://camo.githubusercontent.com/ec079c327fb3a02943017a5c7fc8c5bad09aadc009dec63524be913ba74f1929/68747470733a2f2f7261772e6769746875622e636f6d2f436972636c6543492d5075626c69632f63696d672d626173652f6d61737465722f696d672f636972636c652d636972636c6563692e7376673f73616e6974697a653d74727565" alt="circle.ci" width="40" height="40"/> </a>
 <a href="https://www.nginx.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="ngnix" width="40" height="40"/> </a>    
 </p>
 
