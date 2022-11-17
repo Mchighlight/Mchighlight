@@ -9,8 +9,6 @@
 
 - 🏢 I’m currently working at **Experian** as Software Engineer
 
-- 🌱 I’m currently learning **Big data and Cloud Engineering. A DevOps want to be**
-
 - 💬 Ask me about   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 
 - 📫 How to reach me **huang.hun@northeastern.edu** or **Mchighlighlight@gmail.com**
