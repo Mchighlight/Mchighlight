@@ -7,7 +7,7 @@
 </div>
 <h3 align="center">I love to talk about data ⚡ technology, I have a huge attraction to music🎵 and Playlist</h3>
 
-- 🏢 I’m currently doing internship in **Synopsys Inc.**
+- 🏢 I’m currently working at **Experian** as Software Engineer
 
 - 🌱 I’m currently learning **Big data and Cloud Engineering. A DevOps want to be**
 
