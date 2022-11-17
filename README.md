@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **huang.hun@northeastern.edu** or **Mchighlighlight@gmail.com**
 
-- ⚽ 2020 Goals: More git commit, Cloudera Certification 
+- ⚽ 2023 Goals: Pass the AWS Certified DevOps Engineer and work on more fun MLOps Projects
 
 ## Connect with me
 [![Facebook Badge](https://img.shields.io/badge/-hung_chih_huang-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/Mchighlight13/)](https://www.facebook.com/Mchighlight13/)
