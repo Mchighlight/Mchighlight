@@ -7,14 +7,6 @@
 </div>
 <h3 align="center">I love to talk about data ⚡ technology, I have a huge attraction to music🎵 and Playlist</h3>
 
-- 🏢 I’m currently working at **Experian** as Software Engineer
-
-- 💬 Ask me about   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-
-- 📫 How to reach me **huang.hun@northeastern.edu** or **Mchighlighlight@gmail.com**
-
-- ⚽ 2023 Goals: Pass the AWS Certified DevOps Engineer and work on more fun MLOps Projects
-
 ## Connect with me
 [![Facebook Badge](https://img.shields.io/badge/-hung_chih_huang-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/Mchighlight13/)](https://www.facebook.com/Mchighlight13/)
 [![Medium Badge](https://img.shields.io/badge/-@hung_chih_huang-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@wertherjj)](https://medium.com/@wertherjj)
